@@ -1,0 +1,17 @@
+.small {
+  font-size: 10px;
+  display: block;
+  text-align: left;
+  margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #ec6e4c;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #f88565;
+  transition: 200ms ease-in-out all;
+}
