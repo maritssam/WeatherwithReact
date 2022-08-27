@@ -12,15 +12,15 @@ export default function Tagline() {
         >
           Open-source code
         </a>{" "}
-        by Julia van Vuren |{" "}
+        by Marti medina |{" "}
         <a
           href="https://www.freepik.com/vectors/watercolor-water"
           target="_blank"
           rel="noreferrer"
         >
-          Watercolor water vector
+          Watercolor 
         </a>{" "}
-        created by freepik
+        
       </small>
     </div>
   );
